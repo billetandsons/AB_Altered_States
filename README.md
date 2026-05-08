@@ -1,15 +1,20 @@
-# AB_Altered_States
-
 Like versions?  
 Love Exporting?  
 Hate toggling layers on and off?  
  This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, any layer stdone in one pass.  
 Keep all your versions in one file, ready to render!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c44cfa3-3009-43b0-92af-532a683d5faf" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6f0ffdb7-7e0a-4cff-9a79-08d56ba92448" width="30%" />
+  <img src="https://github.com/user-attachments/assets/294f492b-b7ef-4b60-8e3b-b8fcbc8452db" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef66fc5-55b1-426b-98ac-634f40b5401e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d9e4e362-27d4-4c11-87d6-dda701ac061f" width="45%" />
+</p>
 
 
-<img width="500" height="500" alt="TBRNK-II-Cover-Options_Title-Egizio-URW" src="https://github.com/user-attachments/assets/3c44cfa3-3009-43b0-92af-532a683d5faf" />
-<img width="500" height="500" alt="TBRNK-II-Cover-Options_Title-Acumin-Cond-Med" src="https://github.com/user-attachments/assets/6f0ffdb7-7e0a-4cff-9a79-08d56ba92448" />
-<img width="500" height="500" alt="TBRNK-II-Cover-Options_Title-Wingdings" src="https://github.com/user-attachments/assets/294f492b-b7ef-4b60-8e3b-b8fcbc8452db" />
 
 ---
 

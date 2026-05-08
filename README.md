@@ -1,6 +1,10 @@
 # AB_RenderLayerStates
 
-Tired of hiding and showing layers by hand before every export? This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, done in one pass.
+** Like versions?
+** Love Exporting?
+** Hate toggling layers on and off?
+ This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, done in one pass.
+ ** Keep all your versions in one file, ready to render!
 
 ---
 

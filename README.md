@@ -20,8 +20,9 @@ Keep all your versions in one file, ready to render!
 
 ## Installation
 
-**Quick run (no install needed)**
-Just open the `.jsx` in VS Code with the ExtendScript Debugger, set the target to **Adobe Illustrator**, and hit Run. Done.
+**Quick run (no install needed)**  
+File/Scripts/Other Script...   
+Load the script from wherever you saved it.
 
 **Permanent install — show up in File > Scripts**
 

@@ -105,12 +105,3 @@ _layer_state_exports/
 ```
 
 ---
-
-## Version History
-
-| Version | What changed |
-|---|---|
-| v01 | First version |
-| v02 | Always ON layer support, overwrite prompt, reveal folder option |
-| v03 | Custom output folder, scale/resolution options, duplicate layer warning |
-| v04 | Export format selector (PNG+Alpha / PNG no Alpha / JPEG+quality), colour-coded panels |

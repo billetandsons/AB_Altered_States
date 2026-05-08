@@ -1,10 +1,15 @@
-# AB_RenderLayerStates
+# AB_Altered_States
 
-** Like versions?
-** Love Exporting?
-** Hate toggling layers on and off?
- This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, done in one pass.
- ** Keep all your versions in one file, ready to render!
+Like versions?  
+Love Exporting?  
+Hate toggling layers on and off?  
+ This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, any layer stdone in one pass.  
+Keep all your versions in one file, ready to render!
+
+
+<img width="500" height="500" alt="TBRNK-II-Cover-Options_Title-Egizio-URW" src="https://github.com/user-attachments/assets/3c44cfa3-3009-43b0-92af-532a683d5faf" />
+<img width="500" height="500" alt="TBRNK-II-Cover-Options_Title-Acumin-Cond-Med" src="https://github.com/user-attachments/assets/6f0ffdb7-7e0a-4cff-9a79-08d56ba92448" />
+<img width="500" height="500" alt="TBRNK-II-Cover-Options_Title-Wingdings" src="https://github.com/user-attachments/assets/294f492b-b7ef-4b60-8e3b-b8fcbc8452db" />
 
 ---
 
@@ -27,7 +32,6 @@ Restart Illustrator after copying. Then it's at **File > Scripts > AB_RenderLaye
 ## Requirements
 
 - Adobe Illustrator CS6 or later
-- VS Code + [ExtendScript Debugger](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug) (for quick-run workflow)
 
 ---
 

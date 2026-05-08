@@ -1,7 +1,7 @@
 Like versions?  
 Love Exporting?  
 Hate toggling layers on and off?  
- This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, any layer stdone in one pass.  
+ This Illustrator ExtendScript does the tedious part for you — for each **Toggle** layer you pick, it flips that layer on (keeping your **Always ON** layers visible), exports a file, and moves on. All your design variants, any layers flavor in one pass.  
 Keep all your versions in one file, ready to render!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3c44cfa3-3009-43b0-92af-532a683d5faf" width="30%" />
